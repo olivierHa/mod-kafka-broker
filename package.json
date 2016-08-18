@@ -1,0 +1,26 @@
+{
+  "name": "kafka-broker",
+  "types": ["module"],
+  "version": "0.0.1",
+  "homepage": "https://github.com/olivierHa/mod-kafka-broker", 
+  "author": "Olivier Hanesse",
+  "description": "Store Shinken logs into a Kafka Broker",
+  "contributors": [
+    {
+      "name": "Olivier Hanesse",
+      "email": "olivier.hanesse@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/olivierHa/mod-kafka-broker",
+  "keywords": [
+    "module",
+    "broker",
+    "logs",
+    "log",
+    "kafka"
+  ],
+  "dependencies": {
+    "shinken": ">=2.0"
+  },
+  "license": "AGPL"
+}
